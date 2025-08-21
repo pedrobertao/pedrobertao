@@ -41,9 +41,8 @@
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
-- [Medium / Blog](https://medium.com/@YOUR_PROFILE)  
-- Email: your@email.com  
+- [LinkedIn](https://www.linkedin.com/in/pedro-bertao)  
+- [Home page](https://bertao.me)  
 
 ---
 💡 *"The best way to predict the future is to build it."*
