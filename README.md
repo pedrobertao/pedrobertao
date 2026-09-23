@@ -34,7 +34,6 @@
 
 ## 🌱 What I'm Exploring
 
-- 🤖 **AI applied to financial systems** — building an LLM-based transaction risk/anomaly detection service in Go (in progress → [repo link])  
 - **Low-latency architectures** for payments and transactions  
 - Scalability & resilience inspired by **big tech platforms**  
 
