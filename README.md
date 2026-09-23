@@ -42,7 +42,7 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-bertao)  
-- [Home page](https://bertao.me)  
+- [Home page](https://pedrobertao.com)  
 
 ---
 💡 *"The best way to predict the future is to build it."*;
