@@ -8,15 +8,15 @@ AI is part of how I work every day, from design to shipping. Inside the product,
 
 ## What I bring
 
-- **LLMs in production:** Claude / OpenAI integrations, RAG pipelines, prompt and eval design, structured outputs
-- **AI + backend depth:** serving AI features inside event-driven systems (Kafka, gRPC) with <!-- IN PROGRESS: X -->ms p99 latency
+- **LLMs in production:** Claude / OpenAI / Groq integrations, prompt and eval design, structured outputs
+- **AI + backend depth:** serving AI features inside event-driven systems (Kafka, gRPC) - Building 
 - **Reliability at scale:** services handling millions of requests/day with <!-- TODO: X -->% uptime and <!-- TODO: X -->% infra cost reduction
 
 ---
 
 ## Stack
 
-**AI:** Claude & OpenAI APIs · RAG · Embeddings / vector search · LLM evals
+**AI:** Claude / OpenAI / Groq APIs · Embeddings / vector search · LLM evals
 **Languages:** Go · Python · Node.js · SQL
 **Architecture:** Event-driven · Microservices · gRPC · REST
 **Infra:** Kubernetes · Docker · GCP / AWS · Kafka · Redis · PostgreSQL
