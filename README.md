@@ -11,6 +11,7 @@
 - **Languages:** Go (Golang), Node.js, Python, SQL  
 - **Architectures:** Microservices, Event-driven systems, REST, gRPC  
 - **Infra & Tools:** Docker, Kubernetes, GCP/AWS, Kafka, Redis, PostgreSQL  
+- **AI/ML:** LLM integration (Claude/OpenAI APIs), RAG pipelines, applied ML for fraud & risk detection  
 - **Other Interests:** Blockchain (BTC, ETH, stablecoins), Financial Systems  
 
 ---
@@ -33,16 +34,16 @@
 
 ## 🌱 What I'm Exploring
 
-- AI applied to **financial systems**  
+- 🤖 **AI applied to financial systems** — building an LLM-based transaction risk/anomaly detection service in Go (in progress → [repo link])  
 - **Low-latency architectures** for payments and transactions  
 - Scalability & resilience inspired by **big tech platforms**  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-bertao)  
 - [Home page](https://bertao.me)  
 
 ---
-💡 *"The best way to predict the future is to build it."*
+💡 *"The best way to predict the future is to build it."*;
