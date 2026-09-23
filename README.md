@@ -1,48 +1,34 @@
-# Hi there 👋 I'm Pedro
+# Hi, I'm Pedro 👋
 
-💻 **Senior Software Engineer** | Backend Specialist (Go, Node.js, Python)  
-⚡ Passionate about **high-performance systems, payments, and crypto assets**  
-🔍 Always exploring **scalability, reliability & compliance** in fintech
+**Senior Software Engineer · Applied AI · Go** I use AI to turn ideas into production systems, and I build AI into them when it actually makes the product better.
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Go (Golang), Node.js, Python, SQL  
-- **Architectures:** Microservices, Event-driven systems, REST, gRPC  
-- **Infra & Tools:** Docker, Kubernetes, GCP/AWS, Kafka, Redis, PostgreSQL  
-- **AI/ML:** LLM integration (Claude/OpenAI APIs), RAG pipelines, applied ML for fraud & risk detection  
-- **Other Interests:** Blockchain (BTC, ETH, stablecoins), Financial Systems  
+AI is part of how I work every day, from design to shipping. Inside the product, I use it only when it earns its place. When it does, I handle the hard part: getting models into real products at scale, with the latency, observability, and failure handling that high-stakes systems need. That discipline comes from years of building payment and risk infrastructure where every bug cost real money. Now I'm applying it to **AI products with real-world impact**, starting with **climate**.
 
 ---
 
-## 📌 Experience Highlights
+## What I bring
 
-- 🏦 Built **payment and compliance systems** handling high throughput and strict reliability requirements  
-- ⚡ Optimized backends for **performance and cost efficiency**, scaling services to millions of requests/day  
-- 🌐 Worked extensively with **crypto assets** and blockchain-based integrations  
-
----
-
-## 🌍 Languages
-
-- 🇧🇷 **Portuguese:** Native  
-- 🇺🇸 **English:** Professional  
-- 🇪🇸 **Spanish:** Conversational  
+- **LLMs in production:** Claude / OpenAI integrations, RAG pipelines, prompt and eval design, structured outputs
+- **AI + backend depth:** serving AI features inside event-driven systems (Kafka, gRPC) with <!-- IN PROGRESS: X -->ms p99 latency
+- **Reliability at scale:** services handling millions of requests/day with <!-- TODO: X -->% uptime and <!-- TODO: X -->% infra cost reduction
 
 ---
 
-## 🌱 What I'm Exploring
+## Stack
 
-- **Low-latency architectures** for payments and transactions  
-- Scalability & resilience inspired by **big tech platforms**  
+**AI:** Claude & OpenAI APIs · RAG · Embeddings / vector search · LLM evals
+**Languages:** Go · Python · Node.js · SQL
+**Architecture:** Event-driven · Microservices · gRPC · REST
+**Infra:** Kubernetes · Docker · GCP / AWS · Kafka · Redis · PostgreSQL
+
+---
+
+## Languages
+
+Portuguese (native) · English (professional) · Spanish (conversational)
 
 ---
 
-## 📫 Let's Connect
+## Let's connect
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-bertao)  
-- [Home page](https://pedrobertao.com)  
-
----
-💡 *"The best way to predict the future is to build it."*;
+[LinkedIn](https://www.linkedin.com/in/pedro-bertao) · [pedrobertao.com](https://pedrobertao.com/)
